@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title %}{{ page.title }} – {% endif %}RAISE Group · Politecnico di Milano</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/main.css" />
+</head>
+<body>
+
+<div id="identity-bar">
+  <div class="identity-inner">
+    <a href="/" class="identity-logo-link">
+      <img src="/static/new_logo.png" alt="RAISE Group" class="identity-raise-logo" />
+    </a>
+    <nav>
+      <ul>
+        <li><a href="/#research">Research</a></li>
+        <li><a href="/#projects">Projects</a></li>
+        <li><a href="/#staff">Staff</a></li>
+      </ul>
+    </nav>
+  </div>
+</div>
+
+
+{{ content }}
+
+<footer>
+  <div class="footer-top">
+    <div class="container">
+      <div class="footer-logo">
+        <a href="https://www.polimi.it/" target="_blank" rel="noopener">
+          <img src="/static/politecnico.png" alt="Politecnico di Milano" />
+        </a>
+        <div class="logo-sep"></div>
+        <div class="deib-text">Dipartimento di Elettronica,<br>Informazione e Bioingegneria</div>
+      </div>
+      <div class="footer-social">
+        <ul>
+          <li><a href="https://www.facebook.com/department.deib.polimi" target="_blank" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
+          <li><a href="https://www.linkedin.com/company/department-deib-polimi" target="_blank" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a></li>
+          <li><a href="https://www.instagram.com/department.deib.polimi" target="_blank" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
+          <li><a href="https://www.youtube.com/@department-deib.polimi" target="_blank" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

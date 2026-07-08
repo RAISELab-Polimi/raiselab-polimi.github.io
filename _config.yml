@@ -28,11 +28,6 @@ url: "https://isgroup-polimi.github.io" # the base hostname & protocol for your 
 # github_username:  jekyll
 
 # Build settings
-#theme: minima
-#remote_theme: "jeffreytse/jekyll-theme-yat"
-remote_theme: "daattali/beautiful-jekyll"
-#remote_theme: "alshedivat/al-folio"
-
 plugins:
   - jekyll-feed
 
