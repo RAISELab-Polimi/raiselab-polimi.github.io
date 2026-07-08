@@ -14,14 +14,14 @@
 
 <div id="identity-bar">
   <div class="identity-inner">
-    <a href="/" class="identity-logo-link">
-      <img src="/static/new_logo.png" alt="RAISE Group" class="identity-raise-logo" />
+    <a href="{{ '/' | relative_url }}" class="identity-logo-link">
+      <img src="{{ '/static/new_logo.png' | relative_url }}" alt="RAISE Group" class="identity-raise-logo" />
     </a>
     <nav>
       <ul>
-        <li><a href="/#research">Research</a></li>
-        <li><a href="/#projects">Projects</a></li>
-        <li><a href="/#staff">Staff</a></li>
+        <li><a href="{{ site.baseurl }}/#research">Research</a></li>
+        <li><a href="{{ site.baseurl }}/#projects">Projects</a></li>
+        <li><a href="{{ site.baseurl }}/#staff">Staff</a></li>
       </ul>
     </nav>
   </div>
@@ -35,7 +35,7 @@
     <div class="container">
       <div class="footer-logo">
         <a href="https://www.polimi.it/" target="_blank" rel="noopener">
-          <img src="/static/politecnico.png" alt="Politecnico di Milano" />
+          <img src="{{ '/static/politecnico.png' | relative_url }}" alt="Politecnico di Milano" />
         </a>
         <div class="logo-sep"></div>
         <div class="deib-text">Dipartimento di Elettronica,<br>Informazione e Bioingegneria</div>

@@ -6,7 +6,7 @@ layout: home
   <div class="section-inner">
     <div class="about-grid">
       <p>The research of the RAISE group at the Department of Electronics, Information and Bioengineering of Politecnico di Milano is focused on the development of adaptive information systems, handling the most critical issues along the entire data lifecycle and the design and development of novel IS architectures. The research mainly addresses quality-aware design of IS architectures to create adaptive information systems, with the goal of dynamically evolving in order to meet specific requirements and maintain the system operations. Application areas include healthcare, industry 4.0/5.0, cybersecurity, judiciary.</p>
-      <img src="/static/group_pic.png" alt="RAISE Group" class="about-group-photo" />
+      <img src="{{ site.baseurl }}/static/group_pic.png" alt="RAISE Group" class="about-group-photo" />
     </div>
   </div>
 </section>
@@ -82,108 +82,108 @@ layout: home
     <div class="staff-grid">
 
       <div class="staff-card">
-        <img src="/static/profile/barbara.jpg" alt="Barbara Pernici" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/barbara.jpg" alt="Barbara Pernici" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Barbara Pernici</div>
           <div class="staff-role">Professor</div>
           <div class="staff-links">
-            <a href="https://www.deib.polimi.it/ita/personale/dettagli/60850" target="_blank"><img src="/static/webpage.png" alt="DEIB Profile" /></a>
-            <a href="https://scholar.google.com/citations?user=r-f9TQEAAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/barbara-pernici-76687b1/" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
-            <a href="https://dblp.org/pid/p/BarbaraPernici.html" target="_blank"><img src="/static/dblp.png" alt="DBLP" /></a>
+            <a href="https://www.deib.polimi.it/ita/personale/dettagli/60850" target="_blank"><img src="{{ site.baseurl }}/static/webpage.png" alt="DEIB Profile" /></a>
+            <a href="https://scholar.google.com/citations?user=r-f9TQEAAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/barbara-pernici-76687b1/" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://dblp.org/pid/p/BarbaraPernici.html" target="_blank"><img src="{{ site.baseurl }}/static/dblp.png" alt="DBLP" /></a>
           </div>
         </div>
       </div>
 
       <div class="staff-card">
-        <img src="/static/profile/cappiello.jpg" alt="Cinzia Cappiello" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/cappiello.jpg" alt="Cinzia Cappiello" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Cinzia Cappiello</div>
           <div class="staff-role">Professor</div>
           <div class="staff-links">
-            <a href="https://www.deib.polimi.it/eng/people/details/123890" target="_blank"><img src="/static/webpage.png" alt="DEIB Profile" /></a>
-            <a href="https://scholar.google.com/citations?user=-Ihy2bkAAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/cinzia-cappiello-bba85b1/" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
-            <a href="https://dblp.org/pid/17/5993.html" target="_blank"><img src="/static/dblp.png" alt="DBLP" /></a>
+            <a href="https://www.deib.polimi.it/eng/people/details/123890" target="_blank"><img src="{{ site.baseurl }}/static/webpage.png" alt="DEIB Profile" /></a>
+            <a href="https://scholar.google.com/citations?user=-Ihy2bkAAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/cinzia-cappiello-bba85b1/" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://dblp.org/pid/17/5993.html" target="_blank"><img src="{{ site.baseurl }}/static/dblp.png" alt="DBLP" /></a>
           </div>
         </div>
       </div>
 
       <div class="staff-card">
-        <img src="/static/profile/plebani.jpeg" alt="Pierluigi Plebani" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/plebani.jpeg" alt="Pierluigi Plebani" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Pierluigi Plebani</div>
           <div class="staff-role">Professor</div>
           <div class="staff-links">
-            <a href="https://www.deib.polimi.it/ita/personale/details/320738" target="_blank"><img src="/static/webpage.png" alt="DEIB Profile" /></a>
-            <a href="https://scholar.google.com/citations?user=FUdUWB4AAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/pierluigi-plebani/" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
-            <a href="https://dblp.org/pid/86/5594.html" target="_blank"><img src="/static/dblp.png" alt="DBLP" /></a>
+            <a href="https://www.deib.polimi.it/ita/personale/details/320738" target="_blank"><img src="{{ site.baseurl }}/static/webpage.png" alt="DEIB Profile" /></a>
+            <a href="https://scholar.google.com/citations?user=FUdUWB4AAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/pierluigi-plebani/" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://dblp.org/pid/86/5594.html" target="_blank"><img src="{{ site.baseurl }}/static/dblp.png" alt="DBLP" /></a>
           </div>
         </div>
       </div>
 
       <div class="staff-card">
-        <img src="/static/profile/vitali.jpeg" alt="Monica Vitali" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/vitali.jpeg" alt="Monica Vitali" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Monica Vitali</div>
           <div class="staff-role">Professor</div>
           <div class="staff-links">
-            <a href="https://www.deib.polimi.it/ita/personale/details/750428" target="_blank"><img src="/static/webpage.png" alt="DEIB Profile" /></a>
-            <a href="https://scholar.google.com/citations?user=ZKwcR3UAAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/vitalimonica/" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
-            <a href="https://dblp.org/pid/69/9854.html" target="_blank"><img src="/static/dblp.png" alt="DBLP" /></a>
+            <a href="https://www.deib.polimi.it/ita/personale/details/750428" target="_blank"><img src="{{ site.baseurl }}/static/webpage.png" alt="DEIB Profile" /></a>
+            <a href="https://scholar.google.com/citations?user=ZKwcR3UAAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/vitalimonica/" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://dblp.org/pid/69/9854.html" target="_blank"><img src="{{ site.baseurl }}/static/dblp.png" alt="DBLP" /></a>
           </div>
         </div>
       </div>
 
       <div class="staff-card">
-        <img src="/static/profile/cecily.jpg" alt="Jingxian Wang" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/cecily.jpg" alt="Jingxian Wang" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Jingxian (Cecily) Wang</div>
           <div class="staff-role">Ph.D. Candidate</div>
           <div class="staff-links">
-            <a href="https://scholar.google.com/citations?user=Nv6FY2IAAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/cecilyjx-wang/" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://scholar.google.com/citations?user=Nv6FY2IAAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/cecilyjx-wang/" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
           </div>
         </div>
       </div>
 
       <div class="staff-card">
-        <img src="/static/profile/MatteoFalconi.jpg" alt="Matteo Falconi" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/MatteoFalconi.jpg" alt="Matteo Falconi" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Matteo Falconi</div>
           <div class="staff-role">Ph.D. Candidate</div>
           <div class="staff-links">
-            <a href="https://www.deib.polimi.it/ita/personale/dettagli/1195460" target="_blank"><img src="/static/webpage.png" alt="DEIB Profile" /></a>
-            <a href="https://scholar.google.com/citations?user=mkmnaaYAAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/matteo-falconi/" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://www.deib.polimi.it/ita/personale/dettagli/1195460" target="_blank"><img src="{{ site.baseurl }}/static/webpage.png" alt="DEIB Profile" /></a>
+            <a href="https://scholar.google.com/citations?user=mkmnaaYAAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/matteo-falconi/" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
           </div>
         </div>
       </div>
 
       <div class="staff-card">
-        <img src="/static/profile/Shudan.jpg" alt="Shudan Yang" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/Shudan.jpg" alt="Shudan Yang" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Shudan Yang</div>
           <div class="staff-role">Ph.D. Candidate</div>
           <div class="staff-links">
-            <a href="https://www.deib.polimi.it/ita/personale/dettagli/2073286" target="_blank"><img src="/static/webpage.png" alt="DEIB Profile" /></a>
-            <a href="https://scholar.google.com/citations?user=9UUWpGgAAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/shudan-yang-2741a2354" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://www.deib.polimi.it/ita/personale/dettagli/2073286" target="_blank"><img src="{{ site.baseurl }}/static/webpage.png" alt="DEIB Profile" /></a>
+            <a href="https://scholar.google.com/citations?user=9UUWpGgAAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/shudan-yang-2741a2354" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
           </div>
         </div>
       </div>
 
       <div class="staff-card">
-        <img src="/static/profile/fortina.jpeg" alt="Valeria M. Fortina" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/fortina.jpeg" alt="Valeria M. Fortina" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Valeria M. Fortina</div>
           <div class="staff-role">Ph.D. Candidate</div>
           <div class="staff-links">
-            <a href="https://www.deib.polimi.it/eng/people/details/1134866" target="_blank"><img src="/static/webpage.png" alt="DEIB Profile" /></a>
-            <a href="https://scholar.google.com/citations?user=zwQVmvsAAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/valeria-fortina-ba9239171/" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://www.deib.polimi.it/eng/people/details/1134866" target="_blank"><img src="{{ site.baseurl }}/static/webpage.png" alt="DEIB Profile" /></a>
+            <a href="https://scholar.google.com/citations?user=zwQVmvsAAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/valeria-fortina-ba9239171/" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
           </div>
         </div>
       </div>
@@ -198,15 +198,15 @@ layout: home
     <div class="staff-grid">
 
       <div class="staff-card">
-        <img src="/static/profile/camilla.jpeg" alt="Camilla Sancricca" class="staff-photo" />
+        <img src="{{ site.baseurl }}/static/profile/camilla.jpeg" alt="Camilla Sancricca" class="staff-photo" />
         <div class="staff-card-body">
           <div class="staff-name">Camilla Sancricca</div>
           <div class="staff-role">Ph.D. Candidate</div>
           <div class="staff-links">
-            <a href="https://www.deib.polimi.it/ita/personale/dettagli/1122566" target="_blank"><img src="/static/webpage.png" alt="DEIB Profile" /></a>
-            <a href="https://scholar.google.com/citations?user=1gKkAtUAAAAJ" target="_blank"><img src="/static/scholar.png" alt="Google Scholar" /></a>
-            <a href="https://www.linkedin.com/in/camilla-sancricca-00a1b8223/" target="_blank"><img src="/static/linkedin.png" alt="LinkedIn" /></a>
-            <a href="https://dblp.org/pid/327/0621.html" target="_blank"><img src="/static/dblp.png" alt="DBLP" /></a>
+            <a href="https://www.deib.polimi.it/ita/personale/dettagli/1122566" target="_blank"><img src="{{ site.baseurl }}/static/webpage.png" alt="DEIB Profile" /></a>
+            <a href="https://scholar.google.com/citations?user=1gKkAtUAAAAJ" target="_blank"><img src="{{ site.baseurl }}/static/scholar.png" alt="Google Scholar" /></a>
+            <a href="https://www.linkedin.com/in/camilla-sancricca-00a1b8223/" target="_blank"><img src="{{ site.baseurl }}/static/linkedin.png" alt="LinkedIn" /></a>
+            <a href="https://dblp.org/pid/327/0621.html" target="_blank"><img src="{{ site.baseurl }}/static/dblp.png" alt="DBLP" /></a>
           </div>
         </div>
       </div>
