@@ -7,19 +7,19 @@
 # ---------- to be added for each people
 # **Camilla Sancricca (Ph.D. Candidate)**
 
-# <img src="/static/camilla.jpeg" width="140" alt="Description">
+# <img src="static/camilla.jpeg" width="140" alt="Description">
 
-# [<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
-# [<img src="/static/scholar.png" width="30" alt="B">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
-# [<img src="/static/linkedin.png" width="30" alt="C">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
-# [<img src="/static/dblp.png" width="30" alt="D">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+# [<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+# [<img src="static/scholar.png" width="30" alt="B">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+# [<img src="static/linkedin.png" width="30" alt="C">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+# [<img src="static/dblp.png" width="30" alt="D">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 # ----------
 
 layout: home
 ---
 
 <p align="left">
-<img src="/static/new_logo.png" width="700" alt="Description">
+<img src="static/new_logo.png" width="700" alt="Description">
 </p>
 
 # Research on Advanced Information Systems Engineering (RAISE)
@@ -65,77 +65,77 @@ For the design phase, the design and impact of security policies in IS and data 
 # Staff
 
 <p align="center">
-<img src="/static/group_pic.png" width="600" alt="Description">
+<img src="static/group_pic.png" width="600" alt="Description">
 </p>
 
 [Link](https://www.deib.polimi.it/eng/research-lines/details/85) to information on the RAISE group on the Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) department website of Politecnico di Milano.
 
 **Barbara Pernici (Professor)**
 
-<img src="/static/profile/barbara.jpg" width="140" alt="Description">
+<img src="static/profile/barbara.jpg" width="140" alt="Description">
 
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/60850)
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=r-f9TQEAAAAJ&hl=en&oi=ao)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/barbara-pernici-76687b1/?originalSubdomain=it)
-[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/p/BarbaraPernici.html)
+[<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/60850)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=r-f9TQEAAAAJ&hl=en&oi=ao)
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/barbara-pernici-76687b1/?originalSubdomain=it)
+[<img src="static/dblp.png" width="30" alt="D">](https://dblp.org/pid/p/BarbaraPernici.html)
 
 **Cinzia Cappiello (Professor)**
 
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/eng/people/details/123890)
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=-Ihy2bkAAAAJ&hl=it)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/cinzia-cappiello-bba85b1/?originalSubdomain=it)
-[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/17/5993.html)
+[<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/eng/people/details/123890)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=-Ihy2bkAAAAJ&hl=it)
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/cinzia-cappiello-bba85b1/?originalSubdomain=it)
+[<img src="static/dblp.png" width="30" alt="D">](https://dblp.org/pid/17/5993.html)
 
 **Pierluigi Plebani (Professor)**
 
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/details/320738)
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=FUdUWB4AAAAJ&hl=it&oi=ao)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/pierluigi-plebani/?originalSubdomain=it)
-[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/86/5594.html)
+[<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/details/320738)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=FUdUWB4AAAAJ&hl=it&oi=ao)
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/pierluigi-plebani/?originalSubdomain=it)
+[<img src="static/dblp.png" width="30" alt="D">](https://dblp.org/pid/86/5594.html)
 
 **Monica Vitali (Professor)**
 
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/details/750428)
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=ZKwcR3UAAAAJ&hl=it&oi=ao)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/vitalimonica/?originalSubdomain=it)
-[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/69/9854.html)
+[<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/details/750428)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=ZKwcR3UAAAAJ&hl=it&oi=ao)
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/vitalimonica/?originalSubdomain=it)
+[<img src="static/dblp.png" width="30" alt="D">](https://dblp.org/pid/69/9854.html)
 
 **Camilla Sancricca (Ph.D. Candidate)**
 
-<img src="/static/profile/camilla.jpeg" width="140" alt="Description">
+<img src="static/profile/camilla.jpeg" width="140" alt="Description">
 
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=1gKkAtUAAAAJ&hl=it&oi=ao)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/camilla-sancricca-00a1b8223/)
-[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/327/0621.html)
+[<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=1gKkAtUAAAAJ&hl=it&oi=ao)
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/camilla-sancricca-00a1b8223/)
+[<img src="static/dblp.png" width="30" alt="D">](https://dblp.org/pid/327/0621.html)
 
 **Jingxian (Cecily) Wang (Ph.D. Candidate)**
 
-<img src="/static/profile/cecily.jpg" width="140" alt="Description">
+<img src="static/profile/cecily.jpg" width="140" alt="Description">
 
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=Nv6FY2IAAAAJ&hl=en)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/cecilyjx-wang/)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=Nv6FY2IAAAAJ&hl=en)
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/cecilyjx-wang/)
 
  **Matteo Falconi (Ph.D. Candidate)**
 
-<img src="/static/profile/MatteoFalconi.jpg" width="140" alt="Description">
+<img src="static/profile/MatteoFalconi.jpg" width="140" alt="Description">
 
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1195460)
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=mkmnaaYAAAAJ&hl=en)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/matteo-falconi/)
+[<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1195460)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=mkmnaaYAAAAJ&hl=en)
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/matteo-falconi/)
 
 **Shudan Yang (Ph.D. Candidate)**
 
-<img src="/static/profile/Shudan.jpg" width="140" alt="Description">
+<img src="static/profile/Shudan.jpg" width="140" alt="Description">
 
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/2073286)
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=9UUWpGgAAAAJ&hl=en&oi=ao))
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/shudan-yang-2741a2354)
+[<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/2073286)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=9UUWpGgAAAAJ&hl=en&oi=ao))
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/shudan-yang-2741a2354)
 
 **Valeria M. Fortina (Ph.D. Candidate)**
 
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/eng/people/details/1134866)
-[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=zwQVmvsAAAAJ&hl)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/valeria-fortina-ba9239171/)
+[<img src="static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/eng/people/details/1134866)
+[<img src="static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=zwQVmvsAAAAJ&hl)
+[<img src="static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/valeria-fortina-ba9239171/)
 
 
