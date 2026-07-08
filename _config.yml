@@ -22,8 +22,8 @@ title: Research on Advanced Information Systems Engineering (RAISE) Group at Pol
 #email: barbara.pernici@polimi
 description: >- # this means to ignore newlines until "baseurl:"
   RAISE group belongs to the Dipartimento di Elettronica e Informazione at Politecnico di Milano
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://isgroup-polimi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/isgroup-polimi.github.io" # repo name as subpath for GitHub Pages project site
+url: "https://raiselabpolimi.github.io" # org GitHub Pages domain
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
