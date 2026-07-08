@@ -71,7 +71,7 @@ layout: home
       <li><span class="project-tag">PNRR 2023–2025</span> <strong><a href="https://future-ai-research.it/" target="_blank" rel="noopener">FAIR</a></strong> <a href="https://future-ai-research.it/" class="proj-link" target="_blank" rel="noopener">↗</a> — Future Artificial Intelligence Research – Spoke 4 Adaptive AI. Contact: B. Pernici</li>
       <li><span class="project-tag">PRIN 2023–2025</span> <strong><a href="https://www.discountquality.polimi.it/" target="_blank" rel="noopener">Discount Quality</a></strong> <a href="https://www.discountquality.polimi.it/" class="proj-link" target="_blank" rel="noopener">↗</a> — Human-in-the-Loop for quality data in responsible data science. Contact: B. Pernici</li>
       <li><span class="project-tag">PRIN 2023–2026</span> <strong><a href="https://freeda.di.unipi.it" target="_blank" rel="noopener">FREEDA</a></strong> <a href="https://freeda.di.unipi.it" class="proj-link" target="_blank" rel="noopener">↗</a> — Contact: M. Vitali</li>
-      <li><span class="project-tag">CARIPLO</span> <strong>Fondazione CARIPLO project</strong> — Contact: P. Plebani</li>
+      <li><span class="project-tag">CARIPLO</span> Fondazione CARIPLO project — Contact: P. Plebani</li>
     </ul>
   </div>
 </section>
